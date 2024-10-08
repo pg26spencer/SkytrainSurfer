@@ -2,6 +2,8 @@
 
 A clone of Subway Surfers built in Unity, designed as a project to explore mobile design principles.
 
+![Skytrain Surfers Gameplay](ReadmeAssets/skytrain-surfers.gif)
+
 ## Features
 
 - **Level Generation**: Dynamic levels that keep gameplay fresh and engaging.
