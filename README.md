@@ -9,6 +9,7 @@ A clone of Subway Surfers built in Unity, designed as a project to explore mobil
 - **Level Generation**: Dynamic levels that keep gameplay fresh and engaging.
 - **Custom Shaders**: Unique visual effects to enhance the game's aesthetic.
 - **Custom Physics**: Tailored physics system for an improved gameplay experience.
+- **Online Leaderboard**: Online leaderboard powered by unity gaming services.
 
 ## Technologies Used
 
